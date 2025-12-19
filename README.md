@@ -1,5 +1,3 @@
-# TU-GUT-SYSY-Topological-Bootstrap
-
 # TU-GUT-SYSY: Topological Bootstrap Unified Framework
 
 **Human-Led Candidate for Quantum Gravity and Scalable Topological Quantum Computing**  
