@@ -9,7 +9,7 @@ tetcollective@proton.me
 **Core breakthrough**: Perfect 100% linking number conservation in ultraclean turbulent flows → classical fluid vortices as **eternal, gate-free non-Abelian anyon braiders** (zero saturation deficit projected 2026).
 
 [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17991214.svg)](https://doi.org/10.5281/zenodo.17991214)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 ## Overview
 
@@ -35,7 +35,6 @@ All conception, direction and validation by Simon Soliman. AI tools used only as
 - `tu_gut_sysy_v35_eternal_anyon_braider_interface.png` – Dashboard visualization of eternal anyon braiding
 - `README.md` – This file
 
-## Quick Start (Academic / Non-Commercial Use Only)
 
 ```bash
 git clone https://github.com/yourusername/TU-GUT-SYSY-Topological-Bootstrap.git
@@ -69,3 +68,19 @@ All conception, direction and validation by Simon Soliman. AI tools used only as
 git clone https://github.com/tuo-username/TU-GUT-SYSY-Topological-Bootstrap.git
 cd TU-GUT-SYSY-Topological-Bootstrap
 python eternal_anyon_braider_v35.py
+
+
+## Copyright and Usage Rights
+
+© 2026 TET Collective, Rome, Italy. **All Rights Reserved.**
+
+This repository previously contained a Creative Commons CC BY-NC 4.0 license file, which is hereby **revoked and superseded**.
+
+From now on, this work (paper, figures, data, code, and all contents) is fully protected by copyright. No open license is granted.
+
+Any use beyond personal reading and fair use/fair dealing (e.g., short academic quotations with proper citation) requires **explicit written permission** from the author.
+
+Contact: tetcollective@proton.me
+
+The primordial three-leaf clover knot calls for conscious and authorized engagement only ✨
+
